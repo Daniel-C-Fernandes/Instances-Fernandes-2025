@@ -1,4 +1,4 @@
-# Dados analisados no artigo "[MODELO MATEMÁTICO PARA O PLANEJAMENTO INTEGRADO DA PRODUÇÃO E CORTE DE PAPEL, COM TEMPOS E CUSTOS DE SETUP](https://github.com/Daniel-C-Fernandes/Instances-Fernandes-2025/blob/main/Fernandes_2025_SBPO_submissao%20(5).pdf)"
+# Dados analisados no artigo "[MODELO MATEMÁTICO PARA O PLANEJAMENTO INTEGRADO DA PRODUÇÃO E CORTE DE PAPEL, COM TEMPOS E CUSTOS DE SETUP](https://github.com/Daniel-C-Fernandes/Instances-Fernandes-2025/blob/main/Fernandes_2025_SBPO_submissao%20(5).pdf)" AA
 
 The data sets used in the [article](https://github.com/Daniel-C-Fernandes/Instances-Fernandes-2025/blob/main/Fernandes_2025_SBPO_submissao%20(5).pdf) are available online at: [Data](https://github.com/Daniel-C-Fernandes/Instances-Fernandes-2025)
 
@@ -11,5 +11,5 @@ This article presents a mathematical model for the integrated planning of paper 
 
 ### Resumo do Artigo  
 O artigo trata do desenvolvimento de um modelo matemático para o planejamento integrado da produção e corte de papel, com foco na eficiência de recursos, sustentabilidade e redução de custos operacionais. Conforme apresentado pelos autores, o trabalho estende um modelo existente da literatura para integrar os processos de produção de *jumbos* (bobinas grandes de papel) e seu subsequente corte em bobinas menores, considerando **capacidade limitada da cortadeira**, **tempos e custos de setup independentes da sequência** na mudança de padrões de corte. O objetivo principal é minimizar os custos totais, abrangendo produção de papel, corte, estoque e setups, enquanto atende à demanda sem atrasos. Para resolver o problema — classificado como NP-difícil devido à sua complexidade combinatória —, aplicou-se a **técnica de geração de colunas** de Gilmore e Gomory (1961, 1963). Essa abordagem resolve iterativamente um problema restrito (relaxação linear) usando o método *simplex*, adicionando padrões de corte atrativos identificados via um subproblema da mochila inteira. Resultados de testes numéricos com 270 instâncias (organizadas em 27 classes) demonstraram **limitantes inferiores de alta qualidade** para a solução ótima, com tempos computacionais variando de segundos a minutos conforme a complexidade. A conclusão destaca que o modelo integrado proposto é robusto para cenários industriais complexos, reduzindo desperdícios e custos, mas ainda requer aprimoramentos, como a inclusão de incertezas via otimização estocástica.  
-
 ---
+...
