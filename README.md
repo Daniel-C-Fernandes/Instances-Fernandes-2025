@@ -1,4 +1,4 @@
-# Dados analisados no artigo "[MODELO MATEMÁTICO PARA O PLANEJAMENTO INTEGRADO DA PRODUÇÃO E CORTE DE PAPEL, COM TEMPOS E CUSTOS DE SETUP](https://github.com/Daniel-C-Fernandes/Instances-Fernandes-2025/blob/main/Fernandes_2025_SBPO_submissao%20(5).pdf)" AA
+# Dados analisados no artigo "[MODELO MATEMÁTICO PARA O PLANEJAMENTO INTEGRADO DA PRODUÇÃO E CORTE DE PAPEL, COM TEMPOS E CUSTOS DE SETUP](https://github.com/Daniel-C-Fernandes/Instances-Fernandes-2025/blob/main/Fernandes_2025_SBPO_submissao%20(5).pdf)"
 
 The data sets used in the [article](https://github.com/Daniel-C-Fernandes/Instances-Fernandes-2025/blob/main/Fernandes_2025_SBPO_submissao%20(5).pdf) are available online at: [Data](https://github.com/Daniel-C-Fernandes/Instances-Fernandes-2025)
 
